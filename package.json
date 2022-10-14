@@ -1,0 +1,19 @@
+{
+  "name": "sharex-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "dev": "nodemon main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.8.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
